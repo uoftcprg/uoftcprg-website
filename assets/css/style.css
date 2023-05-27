@@ -1,0 +1,29 @@
+body {
+  height: 100vh;
+}
+
+header {
+  background-color: #f7f7f7;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+nav {
+  background-color: #002f65;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  max-width: 60em;
+}
+
+.nav-link {
+  color: #f7f7f7;
+}
+
+.logo {
+  max-width: 100%;
+  max-height: 100%;
+}
