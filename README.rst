@@ -2,4 +2,4 @@
 uoftcprg-website
 ================
 
-The website of University of Toronto Computer Poker Student Research Group.
+The website of the Universal, Open, Free, and Transparent Computer Poker Research Group.
